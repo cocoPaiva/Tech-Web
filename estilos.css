@@ -1,0 +1,68 @@
+<style>
+  html{
+  font-family: arial;
+  font-size:12px;
+}
+h2 {
+  color:blue;
+}
+table{
+  border-collapse:collapse;
+}
+
+th{
+   height:40px;
+   background-color:#fff3b0;
+}
+
+.col_1{
+  width:300px;
+}
+
+.col_2{
+  padding:5px;
+  width:10px;
+  color:blue;
+  font-size:15px;
+  text-align: right;
+  font-weight: bold;
+}
+
+.col_3{
+  width:100px;
+  text-align:center;
+}
+
+img
+{
+   width:100px;
+   border:1px solid gray;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.boton{
+   display:block;
+   width:80px;
+   height:30px;
+   color:white;
+   margin:auto;
+   padding:5px;
+   border-radius:15px;
+  cursor:pointer;
+}
+
+.boton1{
+   background-color: #9e2a2b;
+
+}
+
+.boton2{
+   background-image: url("https://www.icbf.gov.co/sites/default/files/icon-home-cymatn_14.png");
+ background-repeat: no-repeat;
+  background-position: center;
+  background-size: 50px 50px;
+  margin-top:20px;
+}
+</style>
